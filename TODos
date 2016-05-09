@@ -1,0 +1,21 @@
+1. international
+2. pretend to be a browser
+3. add command line options
+4. add exception handling
+5. need to think a way to add in features
+6. multi-threading to crawl webpage, and feature extraction
+7. use sparse array
+8. unittest
+9. some numbers are hard coded, should fix it
+
+
+
+two categories are not good:
+product comparison
+product detail
+
+
+need to have better features:
+
+separate h1, h2 as two individual bows
+*** add some self-defined keywords, for example, compare, comparison for "product comparison"
